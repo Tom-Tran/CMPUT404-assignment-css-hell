@@ -4,9 +4,10 @@ body
   	min-width: 500px;
 }
 
-p
+p, ul, li
 {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Comic Sans', sans-serif;
+    font-style: oblique;
     font-weight: 200;
     line-height: 200%;
 }
@@ -31,6 +32,7 @@ h3
 {
     color: red;
     font-size: 1em;
+    font-family: 'Arial', sans-serif;
 }
 .content-body
 {
@@ -42,7 +44,7 @@ h3
 
 .side-bar
 {
-	background-color: #D9D9D9;
+	background-color: #282EDE;
 	margin-left: 80%;
 	position: fixed;
 	text-align: left;

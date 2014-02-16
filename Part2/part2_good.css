@@ -4,7 +4,7 @@ body
   	min-width: 500px;
 }
 
-p
+p, ul, li
 {
 	font-family: 'Source Sans Pro', sans-serif;
     font-weight: 150;
